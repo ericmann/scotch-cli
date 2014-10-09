@@ -1,0 +1,30 @@
+{
+	"name": "scotct-cli",
+	"description": "Shipping tool",
+	"version": "0.1.0",
+	"author": "Eric Mann",
+	"homepage": "http://eamann.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ericmann/scotch-cli.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ericmann/scotch-cli/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/ericmann/scotch-cli/blob/master/LICENSE"
+		}
+	],
+	"bin": {
+		"scotch": "bin/scotch"
+	},
+	"engines": {
+		"node": ">= 0.8.0"
+	},
+	"scripts": {},
+	"preferGlobal": true,
+	"dependencies": {},
+	"devDependencies": {}
+}
