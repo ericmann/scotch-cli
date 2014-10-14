@@ -1,7 +1,7 @@
 {
 	"name": "scotch-cli",
 	"description": "Shipping tool",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"author": "Eric Mann",
 	"homepage": "http://eamann.com",
 	"repository": {
